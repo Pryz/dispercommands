@@ -1,0 +1,7 @@
+{
+	"uuid": "dispercommandes@github.com/Pryz",
+	"name": "Disper Commands",
+	"description": "Adds a panel menu entry for Disper commands.",
+	"url": "https://github.com/Pryz/dispercommands",
+	"shell-version": ["3.4.1"]
+}
